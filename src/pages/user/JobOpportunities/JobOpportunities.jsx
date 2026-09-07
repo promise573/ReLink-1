@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import Sidebar from '../../../components/Sidebar/Sidebar.jsx';
+import Sidebar from '../../../components/SideBar/Sidebar.jsx';
 import TopBar from '../../../components/TopBar/TopBar.jsx';
 import { FaBuilding, FaMapMarkerAlt, FaClock, FaDollarSign, FaCalendarAlt, FaStar, FaRegStar } from 'react-icons/fa';
 import './JobOpportunities.css';
