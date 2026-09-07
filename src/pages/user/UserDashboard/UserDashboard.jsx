@@ -1,5 +1,5 @@
 import React from 'react';
-import Sidebar from '../../../components/Sidebar/Sidebar.jsx';
+import Sidebar from '../../../components/SideBar/Sidebar.jsx';
 import TopBar from '../../../components/TopBar/TopBar.jsx';
 
 import StatsCard from '../../../components/StatsCard/StatsCard.jsx';
