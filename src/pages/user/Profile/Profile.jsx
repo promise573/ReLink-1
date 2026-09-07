@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Sidebar from '../../../components/Sidebar/Sidebar.jsx';
+import Sidebar from '../../../components/SideBar/Sidebar.jsx';
 import TopBar from '../../../components/TopBar/TopBar.jsx';
 import { AiOutlineCheckCircle } from 'react-icons/ai';
 import { FaCertificate } from 'react-icons/fa';
